@@ -1,0 +1,4 @@
+6 Found by Thread 0 
+28 Found by Thread 0 
+496 Found by Thread 0 
+8128 Found by Thread 0 

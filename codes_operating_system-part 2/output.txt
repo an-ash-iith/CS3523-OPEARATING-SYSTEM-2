@@ -1,0 +1,195 @@
+0th CS requested by Reader Thread 1 at 1710593628643728
+ at 
+S requested by Reader Thread 1 at 1710593628643728
+0th CS requested by Reader Thread 3 at 1710593628643802
+ at 
+1710593628643861
+0th CS entered by Reader Thread 1 at 1710593628643942
+Reader Thread 3 at 1710593628643802
+0th CS requested by Reader Thread 3 at 1710593628643810
+0th C0th CS entered by Read0th CS entered by Reader Thread 3 at 1710593628643972
+1 at 1710593628643942
+0th CS entered by Reader Thread 3 at 1710593628643972
+0th CS entered by Reader Thread 3 at 1710593628643972
+0th CS requested by Reader Thread 4 at 1710593628643894
+0th CS requested by Writer Thread 4 at 1710593628644034
+1710593628644042
+1710593628644042
+0th CS exited by Reader Thread 1 at 0th CS exited by Reader Thread 3 at 1710593628644049
+1710593628644042
+0th CS exited by Reader Thread 1 at 0th CS exited by Reader Thread 3 at 1710593628644049
+0th CS requested by Writer Thread 4 at 1710593628644050
+0th CS requested by Writer Thread 4 at 1710593628644066
+ CS exited by Reader Thread 3 at 1710593628644049
+0th CS requested by Writer Thread 4 at 1710593628644050
+1710593628644053
+0th CS requested by Writer Thread 4 at 1710593628644066
+1th CS requested by Reader Thread 1 at 1710593628644104
+0th CS exited by Reader Thread 3 at 1710593628644131
+
+th CS exited by Reader Thread 3 at 1710593628644131
+1th CS requested by Reader Thread 3 at 0th CS entered by Writer Thread 1 at 1710593628644086
+
+1th CS requested by Reader Thread 3 at 1710593628644150
+0th CS exited by Writer Thread 1 at 1710593628644169
+1710593628644178
+1710593628644178
+1th CS requested by Writer Thread 1 at 1th CS entered by Reader Thread 3 at 1710593628644186
+1710593628644178
+1th CS requested by Writer Thread 1 at 1th CS entered by Reader Thread 3 at 1710593628644186
+1710593628644186
+0th CS exited by Reader Thread 4 at 1710593628644201
+0th CS exited by Reader Thread 4 at 1710593628644201
+1th CS exited by Reader Thread 3 at 1710593628644210
+1710593628644219
+2th CS requested by Reader Thread 3 at 1710593628644253
+0th CS exited by Writer Thread 4 at 1710593628644274
+0th CS exited by Writer Thread 4 at 1710593628644274
+1th CS requested by Reader Thread 4th CS entered by Writer Thread  at 4 at 17105936286442801710593628644229
+0th CS exited by Writer Thread 4 at 1710593628644274
+1th CS requested by Reader Thread 4th CS entered by Writer Thread  at 4 at 17105936286442801710593628644229
+1th CS requested by Writer Thread 4 at 1710593628644295
+0th CS exited by Writer Thread 4 at 1710593628644304
+0th CS entered by Reader Thread 4 at 1710593628644310
+1710593628644318
+0th CS exited by Reader Thread 4 at 1710593628644330
+1710593628644338
+1th CS requested by Reader Thread 4 at 1710593628644346
+1th CS exited by Writer Thread 4 at 1710593628644364
+1th CS exited by Writer Thread 4 at 1710593628644364
+1th CS entered by Writer Thread 4 at 1710593628644368
+2th CS requested by Writer Thread 4 at 1710593628644378
+1th CS exited by Writer Thread 4 at 1710593628644389
+1th CS exited by Writer Thread 4 at 1710593628644389
+1th CS entered by Reader Thread 3 at 1710593628644394
+2th CS requested by Writer Thread 4 at 1710593628644405
+1710593628644414
+by Writer Thread 4 at 1710593628644405
+1th CS exited by Reader Thread 3 at 1710593628644408
+1710593628644414
+2th CS exited by Writer Thread 4 at 1710593628644433
+2th CS exited by Writer Thread 4 at 1710593628644433
+2th CS requested by Reader Thread 3 at 1th CS entered by Writer Thread 1 at 1710593628644437
+1710593628644440
+3th CS requested by Writer Thread 4 at 1710593628644450
+1th CS exited by Writer Thread 1 at 1710593628644464
+2th CS requested by Writer Thread 12at 0th CS entered by Reader Thread 17105936286444753 1710593628644474
+2th CS exited by Reader Thread 3 at 1710593628644524
+2th CS exited by Reader Thread 3 at 1710593628644524
+3th CS entered by Writer Thread 4 at 1710593628644529
+3th CS requested by Reader Thread 3 at 1710593628644549
+3th CS exited by Writer Thread 4 at 1710593628644568
+3th CS exited by Writer Thread 4 at 1710593628644568
+0th CS entered by Writer Thread 4 at 1710593628644573
+4th CS requested by Writer Thread 4 at 1710593628644584
+1710593628644599 by Writer Thread 4 at 1710593628644584
+0th CS exited by Writer Thread 4 at 1710593628644591
+1710593628644599
+1th CS requested by Writer Thread 4 at 10593628644609
+1th CS requested by Writer Thread 4 at 1710593628644616
+1th CS requested by Writer Thread 4 at 1710593628644616
+1th CS exited by Reader Thread 1 at 1710593628644622
+1th CS exited by Reader Thread 4 at 1710593628644632
+1710593628644643
+2th CS requested by Reader Thread 4 at 1710593628644653
+2th CS requested by Reader Thread 1 at 1710593628644644
+4th CS exited by Writer Thread 4 at 1710593628644680
+4th CS exited by Writer Thread 4 at 1710593628644680
+2th CS entered by Writer Thread 4 at 1710593628644685
+2th CS exited by Writer Thread 4 at 1710593628644701
+2th CS entered by Reader Thread 3 at 1710593628644707
+th CS entered by Reader Thread 4 at  1710593628644707
+3th CS requested by Writer Thread 4 at 17105936286447141th CS entered by Reader Thread 4 at 1710593628644716
+2th CS exited by Reader Thread 3 at 1710593628644724
+1th CS exited by Reader Thread 4 at 1710593628644738
+1th CS exited by Reader Thread 4 at 1710593628644738
+3th CS requested by Reader Thread 3 at 1710593628644744
+1710593628644751
+2th CS requested by Reader Thread 4 at 1710593628644788
+2th CS requested by Reader Thread 4 at 1710593628644788
+3th CS exited by Writer Thread 4 at 1710593628644796
+3th CS entered by Reader Thread 3 at 1710593628644804
+21710593628644809
+4th CS requested by Writer Thread 4 at 1710593628644819
+3th CS exited by Reader Thread 3 at 1710593628644826
+2th CS exited by Reader Thread 4 at 1710593628644835
+1710593628644844
+1710593628644844
+4th CS requested by Reader Thread 3 at 1710593628644845
+0th CS exited by Writer Thread 4 at 1710593628644867
+1710593628644872
+1710593628644872
+2th CS entered by Reader Thread 1 at 1710593628644880
+1th CS requested by Writer Thread 4 at 1710593628644890
+2th CS exited by Reader Thread 4 at 1710593628644894
+3th CS requested by Reader Thread 4 at 1710593628644900
+3th CS requested by Reader Thread 4 at 1710593628644916
+2th CS exited by Reader Thread 1 at 1710593628644945
+1710593628644953
+3th CS requested by Reader Thread 1 at 1710593628644964
+2th CS exited by Writer Thread 1 at 1710593628644998
+2th CS exited by Writer Thread 1 at 1710593628644998
+3th CS entered by Reader Thread 3 at 1710593628645005
+1710593628645014
+3th CS exited by Reader Thread 3 at 1710593628645021
+3th CS exited by Reader Thread 3 at 1710593628645021
+1th CS entered by Writer Thread 4 at 1710593628645027
+1th CS exited by Writer Thread 4 at 1710593628645047
+1710593628645053
+1710593628645053
+1710593628645039
+1710593628645053
+1710593628645039
+2th CS requested by Writer Thread 4 at 1710593628645061
+4th CS exited by Reader Thread 3 at 1710593628645069
+4th CS entered by Writer Thread 4 at 1710593628645076
+4th CS exited by Writer Thread 4 at 1710593628645096
+4th CS exited by Writer Thread 4 at 1710593628645096
+3th CS entered by Reader Thread 4 at 1710593628645100
+3th CS entered by Reader Thread 4 at 1710593628645105
+3th CS exited by Reader Thread 4 at 1710593628645137
+3th CS exited by Reader Thread 4 at 1710593628645151
+1710593628645162
+1710593628645160
+1th CS exited by Writer Thread 4 at 1710593628645190
+1th CS exited by Writer Thread 4 at 1710593628645190
+3th CS entered by Reader Thread 1 at 1710593628645195
+1710593628645200
+1710593628645216
+1710593628645216
+3th CS entered by Writer Thread 1 at 1710593628645223
+1710593628645233
+3th CS exited by Writer Thread 1 at 1710593628645247
+3th CS exited by Writer Thread 1 at 1710593628645247
+4th CS entered by Reader Thread 4 at 1710593628645252
+4th CS requested by Writer Thread 1 at 1710593628645265
+4th CS exited by Reader Thread 4 at 1710593628645274
+2th CS entered by Writer Thread 4 at 1710593628645284
+4th CS requested by Reader Thread 1 at 1710593628645284
+2th CS exited by Writer Thread 4 at 1710593628645316
+2th CS exited by Writer Thread 4 at 1710593628645316
+4th CS entered by Reader Thread 4 at 1710593628645320
+1710593628645326
+4 at 1710593628645338
+4 at 1710593628645338
+4th CS exited by Reader Thread 3 at 1710593628645345
+4th CS exited by Reader Thread 4 at 1710593628645356
+2th CS entered by Writer Thread 4 at 1710593628645363
+2th CS exited by Writer Thread 4 at 1710593628645393
+1710593628645398
+3th CS requested by Writer Thread 4 at 1710593628645407
+1710593628645414
+4th CS exited by Reader Thread 1 at 1710593628645443
+4th CS exited by Reader Thread 1 at 1710593628645443
+3th CS entered by Writer Thread 4 at 1710593628645449
+3th CS exited by Writer Thread 4 at 1710593628645468
+3th CS entered by Writer Thread 4 at 1710593628645473
+3th CS entered by Writer Thread 4 at 1710593628645473
+4th CS requested by Writer Thread 4 at 1710593628645477
+3th CS exited by Writer Thread 4 at 1710593628645501
+4th CS entered by Writer Thread 4 at 1710593628645512
+4th CS requested by Writer Thread 4 at 1710593628645519
+4th CS requested by Writer Thread 4 at 1710593628645519
+4th CS exited by Writer Thread 4 at 1710593628645524
+4th CS entered by Writer Thread 4 at 1710593628645537
+4th CS exited by Writer Thread 4 at 1710593628645554
