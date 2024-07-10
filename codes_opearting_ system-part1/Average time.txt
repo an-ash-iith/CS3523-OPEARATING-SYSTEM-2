@@ -1,0 +1,4 @@
+average time taken by writer 906.93
+worst time taken by writer 1097.6
+average time taken by reader 1312.68
+worst time taken by reader 1354.9
